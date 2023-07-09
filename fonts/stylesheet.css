@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Fasthand';
+    src: url('Fasthand-Regular.woff2') format('woff2'),
+        url('Fasthand-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
